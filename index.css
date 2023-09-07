@@ -1,0 +1,24 @@
+/* Style for the trackbar container */
+.slider-container {
+width: 300px;
+margin: 20px;
+}
+
+/* Style for the trackbar input element */
+input[type="range"] {
+width: 100%;
+}
+
+/* Style for the value label */
+.slider-value {
+text-align: center;
+}
+
+.details {
+    float: left;
+}
+
+.break {
+    height: 100px;
+    width: 50%;
+}
